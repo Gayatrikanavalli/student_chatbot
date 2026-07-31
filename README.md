@@ -1,35 +1,22 @@
 # 🎓 Student Chatbot
 
-A simple AI-powered Student Chatbot built using Flask and Python. It provides responses to student queries through an interactive web interface.
+A simple student chatbot that provides responses to user queries through a web interface.
 
 ## 🚀 Features
-- 💬 Interactive chatbot
-- 🤖 AI-generated responses
-- 🌐 Simple web interface
+- Interactive chatbot
+- Simple user interface
+- AI-based responses
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 - Python
-- Flask
 - HTML
 - CSS
 - JavaScript
 
-## 📂 Project Structure
-- templates/
+## 📂 Files
 - app.py
+- templates/
 - requirements.txt
 
-## ▶️ How to Run
-
-1. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Run:
-   ```bash
-   python app.py
-   ```
-3. Open the application in your browser.
-
 ## 👩‍💻 Author
-**Gayatri Kanavalli**
+Gayatri Kanavalli
