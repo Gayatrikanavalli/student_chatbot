@@ -8,7 +8,7 @@ A simple student chatbot that provides responses to user queries through a web i
 - AI-based responses
 
 ## 🛠️ Technologies Used
-- Python
+- Python -Backend
 - HTML
 - CSS
 - JavaScript
@@ -19,4 +19,4 @@ A simple student chatbot that provides responses to user queries through a web i
 - requirements.txt
 
 ## 👩‍💻 Author
-Gayatri Kanavalli
+Gayatri Kanavalli 
